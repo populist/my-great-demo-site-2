@@ -1,0 +1,14 @@
+uuid: 48f070d7-122f-48ad-bd91-d8509ca5c9b2
+name: my-great-demo-site-2
+mail: webops@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
